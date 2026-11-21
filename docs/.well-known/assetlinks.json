@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.clipperai.app",
+      "sha256_cert_fingerprints": ["94:E9:85:AF:B6:4E:84:DD:62:0E:56:ED:68:91:6B:6B:BC:E3:DC:45:FD:D0:F3:1E:3E:57:98:74:34:DD:B3:DE"]
+    }
+  }
+]
